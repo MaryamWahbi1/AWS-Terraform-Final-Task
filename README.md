@@ -31,10 +31,8 @@ We will create Terraform code for building the following environment:
 ```
 mkdir AWS-Terraform-Final-Task
 ```
-- Create terraform file with the below command.
-```
-touch main.tf
-```
+- Create terraform files.
+
 **4. Now, to begin a new configuration, every Terraform project directory needs to be initialised, do this by running the command below.**
 
 ```
