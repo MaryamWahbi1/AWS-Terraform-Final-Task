@@ -46,7 +46,11 @@ terraform init
 ```
 terraform plan
 ```
+[![](https://github.com/MaryamWahbi1/AWS-Terraform-Final-Task/blob/master/screenshots/terraform_plan.PNG?raw=true)](https://github.com/MaryamWahbi1/AWS-Terraform-Final-Task/blob/master/screenshots/terraform_plan.PNG?raw=true)
+
+
 - Next, deploy the configuration by executing the plan with the command below.
 ```
 terraform apply
 ```
+[![](https://github.com/MaryamWahbi1/AWS-Terraform-Final-Task/blob/master/screenshots/apply_terraform.PNG?raw=true)](https://github.com/MaryamWahbi1/AWS-Terraform-Final-Task/blob/master/screenshots/apply_terraform.PNG?raw=true)
