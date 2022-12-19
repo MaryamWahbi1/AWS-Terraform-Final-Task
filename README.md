@@ -2,6 +2,7 @@
 
 ## Requierments :
 We will create Terraform code for building the following environment:
+
 [![](https://github.com/MaryamWahbi1/AWS-Terraform-Final-Task/blob/master/screenshots/environment.PNG?raw=true)](https://github.com/MaryamWahbi1/AWS-Terraform-Final-Task/blob/master/screenshots/environment.PNG?raw=true)
 
 
