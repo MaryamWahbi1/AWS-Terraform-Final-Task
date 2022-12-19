@@ -20,7 +20,7 @@ We will create Terraform code for building the following environment:
 
 [https://developer.hashicorp.com/terraform/downloads](https://developer.hashicorp.com/terraform/downloads)
 
-**2. create an AWS access key**
+**2. Create an AWS access key**
 
 - Create an IAM user, and then define that user's permissions as narrowly as possible.
 - Create the access key under that IAM user.
