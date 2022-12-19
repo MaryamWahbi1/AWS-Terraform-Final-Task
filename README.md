@@ -27,7 +27,7 @@ We will create Terraform code for building the following environment:
 
 **3. Initialising new Terraform project**
 
-- Create a new directory for your Terraform project and change into it.
+- Create a new directory.
 ```
 mkdir AWS-Terraform-Final-Task
 ```
